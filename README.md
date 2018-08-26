@@ -1,6 +1,6 @@
-//-----------------------------------------------------------\\
+|-------------------------------------------------------------|
 |----------------------- D e e p S i x -----------------------|
-\\-----------------------------------------------------------//
+|-------------------------------------------------------------|
 
 A self learning artifical intelligence for the game Six Making.
 
@@ -8,10 +8,11 @@ Copyright (C) 2018 M. Roselli
 
 
 1) Intro.
-This software provides the implementation of a reinforcement
-learning agent which plays the game Six Making, created by
-Blue Orange Games. The AI plays looking forward with a tree
-search and evaluating every possible move using a neural net.
+This MATLAB software provides the implementation of a
+reinforcement learning agent which plays the game Six Making,
+created by Blue Orange Games. The AI plays looking forward with
+a tree search and evaluating every possible move using a neural
+net.
 
 2) Neural Network Evaluation.
 The evaluation of the state of the game is provided by a
